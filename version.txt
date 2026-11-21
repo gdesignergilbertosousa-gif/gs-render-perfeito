@@ -1,2 +1,2 @@
 1.6
-https://raw.githubusercontent.com/gdesignergilbertosousa-gif/gs-render-perfeito/main/gs_render_perfeito_v1.6.0.rbz
+https://raw.githubusercontent.com/gdesignergilbertosousa-gif/gs-render-perfeito/main/gs-render-perfeito-v1.6.0.rbz
